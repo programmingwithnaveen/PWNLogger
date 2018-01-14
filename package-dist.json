@@ -1,6 +1,6 @@
 {
   "name": "pwn-logger-lib",
-  "version": "1.0.1",
+  "version": "1.0.7",
   "description": "PWNLogger is a logging library for Angular(v5) project.",
   "main": "bundles/pwn-logger-library.umd.js",
   "module": "index.js",
