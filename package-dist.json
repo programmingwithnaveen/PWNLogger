@@ -1,0 +1,19 @@
+{
+  "name": "pwn-logger-lib",
+  "version": "1.0.1",
+  "description": "PWNLogger is a logging library for Angular(v5) project.",
+  "main": "bundles/pwn-logger-library.umd.js",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "keywords": [
+    "angular",
+    "Logger Library",
+    "angular 5",
+    "basic logger",
+    "console Logging",
+    "Server Logging",
+    "User Tracking"
+  ],
+  "author": "Programming With Naveen",
+  "license": "MIT"
+}
